@@ -1,0 +1,13 @@
+AeroPanel = Panel code for aerodynamic parameter calculation
+
+Uses public-domain information to generate aerodynamic paramters using
+a panel code. Code is applicable for hypersonic-continuum and free-molecular
+aerodynamics.
+
+
+Main Developers
+---------------
+Soumyo Dutta
+waahvsov@yahoo.com
+
+M. Mahzari
