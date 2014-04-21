@@ -1,6 +1,6 @@
 function [CL,CD,CA,CN,CZ,CM]=coeffgen(x,r,z,aerodynamic_flag,options,cg_offset,AOA)
 % For a given geometry, mesh quality, cg offset and angle of attack (alpha)
-% this function gives the lift, drag and pitching moment coefficient
+% this function gives the lift, drag, and pitching moment coefficient
 %
 % Inputs:
 % x,r,z = body geometry --- x and r are the outermold line and z is the

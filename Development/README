@@ -4,6 +4,7 @@ Uses public-domain information to generate aerodynamic paramters using
 a panel code. Code is applicable for hypersonic-continuum and free-molecular
 aerodynamics.
 
+Please look at sampleInput.m for directions on how to run the program.
 
 Main Developers
 ---------------
@@ -11,3 +12,5 @@ Soumyo Dutta
 waahvsov@yahoo.com
 
 M. Mahzari
+
+Help from K. Simonis

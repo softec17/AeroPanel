@@ -127,7 +127,7 @@ disp('CD List (Parallel Disk)')
 disp(CDList)
 
 % Plots mesh
-figure(7)
-col = zeros(size(x));
-h = mesh(x,r,z,col);
-axis equal
+% figure(7)
+% col = zeros(size(x));
+% h = mesh(x,r,z,col);
+% axis equal
