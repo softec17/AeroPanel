@@ -25,7 +25,7 @@
 % Let r = points in the radial direction
 % refarea = pi*max(max(r))^2;         % Reference area for all aero coeffs
 % lref = 2*max(max(r));               % Reference length for CM calculations
-% So for a sphere-cone, refarea = max base area and lref = max radius
+% So for a sphere-cone, refarea = max base area and lref = max diameter
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 choice = 'Generate';         
